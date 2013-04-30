@@ -1,2 +1,2 @@
-vim with plugins. Stored in bundle folder, managed by git submodule.
+Vim with plugins stored in bundle folder and managed by git submodule.
 ===
